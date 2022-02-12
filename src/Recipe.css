@@ -1,0 +1,26 @@
+.receipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    /* width: 40%; */
+}
+.receipe h1{
+    text-align: center;
+}
+.receipe p{
+    background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    padding: 20px 10px;
+    color: white;
+    border-radius: 15px;
+}
+.receipe .image{
+    border-radius: 10%;
+    width: 200px;
+    height: 200px;
+
+}
